@@ -13,7 +13,7 @@ soran ifadeler yer almaktadır.
 
 Lütfen her maddeyi dikkatle okuyunuz ve sizi **en iyi yansıtan** seçeneği işaretleyiniz.
 
-**Bu çalışma tamamen anonimdir.**
+**Bu uygulamada verdiğiniz yanıtlar kaydedilmez ve tamamen anonimdir.**
 """)
 
 # Cevap seçenekleri
